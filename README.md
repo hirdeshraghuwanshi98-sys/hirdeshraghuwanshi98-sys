@@ -11,7 +11,7 @@ AI/ML Engineer | VIT Bhopal University (2027)
 | Project | Description | Stack |
 |---|---|---|
 | [Customer Churn Prediction](link) | MLOps pipeline, 79.1% acc, 0.83 ROC-AUC | XGBoost, FastAPI, Docker |
-| [FakeScope](link) | Fake news detector, 97% F1, 44k articles | BiLSTM, Attention, NLTK |
+| [FakeScope](https://github.com/hirdeshraghuwanshi98-sys/fake-news-detection-bilstm-attention) | Fake news detector, 97% F1, 44k articles | BiLSTM, Attention, NLTK |
 | [NL-to-SQL](link) | Natural language → SQL using Llama 3.1 | OpenRouter API, SQLite |
 
 
