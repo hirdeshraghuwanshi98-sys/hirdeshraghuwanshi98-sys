@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 **Building:** Scalable AI/ML systems, RAG applications, and full-stack backend platforms.
-- 🎓 **Education:** B.Tech in Computer Science Engineering (AI & ML) at VIT Bhopal University (CGPA: 8.37).
+- 🎓 **Education:** B.Tech in Computer Science Engineering (AI & ML) at VIT Bhopal University.
 - ⚙️ **Core Focus:** Bridging Machine Learning pipelines with production-grade backend architectures (Spring Boot & FastAPI).
 
 ---
