@@ -1,31 +1,30 @@
-## Hi there 👋
-
 # Hi, I'm Hirdesh Raghuwanshi 👋
-AI/ML Engineer | VIT Bhopal University (2027)
+**AI/ML Engineer & Full-Stack Developer**  
+*B.Tech CS (AI & ML) @ VIT Bhopal University ('27)*
 
-🔭 Building: End-to-end ML systems, NLP pipelines, GenAI apps  
-🧠 Stack: Python · TensorFlow · FastAPI · Docker · LLM Integration  
-📍 Madhya Pradesh, India
+📍 Madhya Pradesh, India  
+✉️ [hirdeshraghuwanshi98@gmail.com](mailto:hirdeshraghuwanshi98@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/) | 🐙 [GitHub](https://github.com/hirdeshraghuwanshi98-sys)
 
-## Projects
-| Project | Description | Stack |
-|---|---|---|
-| [Customer Churn Prediction](https://github.com/hirdeshraghuwanshi98-sys/customer-churn-prediction) | MLOps pipeline, 79.1% acc, 0.83 ROC-AUC | XGBoost, FastAPI, Docker |
-| [FakeScope](https://github.com/hirdeshraghuwanshi98-sys/fake-news-detection-bilstm-attention) | Fake news detector, 97% F1, 44k articles | BiLSTM, Attention, NLTK |
-| [NL-to-SQL](https://github.com/hirdeshraghuwanshi98-sys/NL-to-SQL) | Natural language → SQL using Llama 3.1 | OpenRouter API, SQLite |
+---
+
+### 🚀 About Me
+- 🔭 **Building:** Scalable AI/ML systems, RAG applications, and full-stack backend platforms.
+- 🎓 **Education:** B.Tech in Computer Science Engineering (AI & ML) at VIT Bhopal University (CGPA: 8.37).
+- ⚙️ **Core Focus:** Bridging Machine Learning pipelines with production-grade backend architectures (Spring Boot & FastAPI).
+
+---
+
+### 🛠️ Technical Skills
+Languages             :: Java, Python, SQL
+Backend & Frameworks  :: Spring Boot, Spring Security, Spring Data JPA/Hibernate, FastAPI, REST APIs
+AI / ML & GenAI       :: RAG, LangChain, Multi-Query Retrieval, RRF, OpenAI / Gemini API, Scikit-learn, XGBoost
+Vector Databases      :: ChromaDB
+Frontend              :: React, HTML, CSS, JavaScript
+Tools & Deployment    :: Docker, Git, GitHub, Streamlit, Render, Vercel, MySQL
 
 
-<!--
-**hirdeshraghuwanshi98-sys/hirdeshraghuwanshi98-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Open for collaborations and Software / ML Engineering opportunities!</i>
+</p>
